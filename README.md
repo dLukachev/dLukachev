@@ -17,8 +17,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dLukachev&show_icons=true)
-![snake gif](https://github.com/dLukachev/dLukachev/blob/output/github-contribution-grid-snake.svg)
-
