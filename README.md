@@ -19,6 +19,6 @@
 </p>
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dLukachev&show_icons=true)
+![snake gif](https://github.com/dLukachev/dLukachev/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dLukachev&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dLukachev&layout=compact)
