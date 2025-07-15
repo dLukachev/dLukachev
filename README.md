@@ -20,4 +20,4 @@
 
 ## 📊 GitHub Stats
 
-![dLukachev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dLukachev&show_icons=true&theme=github_dark&count_private=true)
+![dLukachev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dLukachev&show_icons=true&theme=github_light&count_private=true)
