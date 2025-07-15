@@ -17,11 +17,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dLukachev&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dLukachev&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=dLukachev)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dLukachev)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=dLukachev)
